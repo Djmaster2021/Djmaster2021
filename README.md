@@ -1,63 +1,64 @@
-<h1 align="center">Diego Adrian Aceves Magana</h1>
-<p align="center">
-  Computer Engineer | Ingeniero en Computacion
-</p>
-<p align="center">
-  Building production-ready software with business impact.
-  <br/>
-  Construyendo software listo para produccion con impacto en negocio.
-</p>
+# Diego Adrian Aceves Magana
 
-<p align="center">
-  <a href="https://github.com/Djmaster2021">
-    <img src="https://komarev.com/ghpvc/?username=Djmaster2021&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+Computer Engineer focused on production-grade software development.
 
-## About Me (English)
-I am a Computer Engineer focused on full-stack development and robust backend systems.  
-I design and build real-world platforms for business operations, including POS, clinic/pharmacy management, and intelligent reservation systems.
+## English
 
-## Sobre Mi (Espanol)
-Soy Ingeniero en Computacion con enfoque en desarrollo full-stack y backend robusto.  
-Diseno y construyo plataformas reales para operacion de negocio, incluyendo POS, gestion clinica/farmacia y sistemas inteligentes de reservaciones.
+### Professional Summary
+Computer Engineer with experience building full-stack systems for real business operations.  
+Focused on backend architecture, secure APIs, and scalable web applications.
 
-## Tech Stack
+### Core Specialties
+- Point of Sale systems
+- Clinic and pharmacy management platforms
+- Intelligent reservation and scheduling systems
+- Business workflow automation
+
+### Technology Stack
 - Backend: Python, Django, Django REST Framework
 - Frontend: Vue 3, Next.js
 - Databases: PostgreSQL, MySQL
 - DevOps and Tools: Docker, GitHub Actions, Linux, Git
 
-## Featured Projects
+### Featured Projects
+- LaundryPro: POS and operations platform for laundry businesses.  
+  Repository: https://github.com/Djmaster2021/Laundrypro
+- Vitalya: Pharmacy and clinic management system with PIN-based access by role and branch.  
+  Repository: https://github.com/Djmaster2021/vitalya
+- SIR: Intelligent reservation system with scheduling rules and a Django + Next.js architecture.  
+  Repository: https://github.com/Djmaster2021/SIR
+- Proyecto RC: Dental clinic platform for appointments, payments, reminders, and integrations.  
+  Repository: https://github.com/Djmaster2021/proyecto_rc
 
-### LaundryPro
-POS and operations platform for laundry businesses (orders, cash flow, reports, inventory).  
-Plataforma POS para lavanderias (ordenes, caja, reportes, inventario).  
-Repository: https://github.com/Djmaster2021/Laundrypro
+## Espanol
 
-### Vitalya
-Pharmacy and clinic management system with PIN-based access by role and branch.  
-Sistema de gestion de farmacia y clinica con acceso por PIN por rol y sucursal.  
-Repository: https://github.com/Djmaster2021/vitalya
+### Resumen Profesional
+Ingeniero en Computacion con experiencia construyendo sistemas full-stack para operacion real de negocio.  
+Enfoque en arquitectura backend, APIs seguras y aplicaciones web escalables.
 
-### SIR
-Intelligent reservation system with scheduling rules and full-stack architecture (Django + Next.js).  
-Sistema inteligente de reservaciones con reglas de agenda y arquitectura full-stack (Django + Next.js).  
-Repository: https://github.com/Djmaster2021/SIR
+### Especialidades
+- Sistemas de Punto de Venta
+- Plataformas de gestion clinica y farmacia
+- Sistemas inteligentes de reservaciones y agenda
+- Automatizacion de flujos operativos
 
-### Proyecto RC
-Dental clinic platform for appointments, payments, reminders, and integrations.  
-Plataforma de consultorio dental para citas, pagos, recordatorios e integraciones.  
-Repository: https://github.com/Djmaster2021/proyecto_rc
+### Stack Tecnologico
+- Backend: Python, Django, Django REST Framework
+- Frontend: Vue 3, Next.js
+- Bases de datos: PostgreSQL, MySQL
+- DevOps y herramientas: Docker, GitHub Actions, Linux, Git
+
+### Proyectos Destacados
+- LaundryPro: Plataforma POS y de operacion para lavanderias.  
+  Repositorio: https://github.com/Djmaster2021/Laundrypro
+- Vitalya: Sistema de gestion de farmacia y clinica con acceso por PIN por rol y sucursal.  
+  Repositorio: https://github.com/Djmaster2021/vitalya
+- SIR: Sistema inteligente de reservaciones con reglas de agenda y arquitectura Django + Next.js.  
+  Repositorio: https://github.com/Djmaster2021/SIR
+- Proyecto RC: Plataforma para consultorio dental con citas, pagos, recordatorios e integraciones.  
+  Repositorio: https://github.com/Djmaster2021/proyecto_rc
 
 ## Contact
 - GitHub: https://github.com/Djmaster2021
 - LinkedIn: https://www.linkedin.com/in/your-linkedin
 - Email: your-professional-email@example.com
-
----
-<p align="center">
-  Open to collaboration on real-world products and scalable backend architecture.
-  <br/>
-  Abierto a colaborar en productos reales y arquitectura backend escalable.
-</p>
